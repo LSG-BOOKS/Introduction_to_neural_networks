@@ -1,4 +1,4 @@
-Introduzione allo sviluppo di reti neurali artificiali
+Introduzione allo sviluppo di reti neurali artificiali ----- DEMO VERSION -------
 
 L’era informatica del «metti la cera, togli la cera» sta giungendo al termine, lasciando spazio a un ritorno alle origini. In principio c’erano l’elettronica e il linguaggio macchina; poi il web ha stravolto tutto. Oggi, però, la macchina sta riprendendo il suo posto, e sarà sempre più intelligente. Chi lavora nel mondo dell’informatica dovrà adattarsi rapidamente, o rischierà di restare indietro.
 
